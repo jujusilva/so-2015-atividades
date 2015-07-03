@@ -9,17 +9,20 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
+
 Conecta os vários arquivos, na ordem especificada, copiando o resultado para a saída padrão. Se não houver argumentos, copia a entrada padrão para a saída padrão.
 Ex: cat /etc/
 
 
 cd
+
 Este comando nos permite se deslocar entre a árvore de diretórios do sistema. 
 Ex: cd $USER
 
 
 
 cowsay
+
   O programa gera a figura da famosa vaquinha das distros baseadas no Debian. O comando cowsay pode ser utilizado de duas formas, uma é chamar o comando cowsay no terminal e na sequência escrever a frase ou palavra que será dita pela vaca.
 Ex: cowsay /lite
 
