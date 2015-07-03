@@ -10,13 +10,14 @@ Glossário de comandos
 
 cat
 
-Conecta os vários arquivos, na ordem especificada, copiando o resultado para a saída padrão. Se não houver argumentos, copia a entrada padrão para a saída padrão. 
+Mostra os conteudos de dentro do artigo especificado. 
 
-Ex: cat /etc/
+Ex: cat escritorio
 
 cd
 
 Este comando nos permite se deslocar entre a árvore de diretórios do sistema.
+
 
 Ex: cd $USER
 
@@ -82,7 +83,8 @@ ls
 
 lista os arquivos e diretórios da pasta atuais. 
 
-Ex : ls ; ls /sbin/ 937 .
+Ex : se estamo no diretorio escritorio
+mostrará os arquivos do diretorio escritorio.
 
 mkdir
 
@@ -153,11 +155,12 @@ Ex: while
 
 who
 
-Mostra os nomes dos usuários que estão conectados numa mesma máquina.
+Mostra os nomes dos usuários que estão conectados no sistema.
 
 whoami
 
-Mostra o nome do próprio usuário que executou o comando whoami.
+Imprime o nome do usuário atual.
+Ex: whoami
 
 write
 
