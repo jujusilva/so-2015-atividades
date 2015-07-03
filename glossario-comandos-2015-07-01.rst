@@ -9,6 +9,7 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
+
 Conecta os vários arquivos, na ordem especificada, copiando o resultado para a saída padrão. Se não houver argumentos, copia a entrada padrão para a saída padrão. 
 
 Ex: cat /etc/
